@@ -3,7 +3,7 @@
   <br>
     Portfólio Victor
   <br>
-  https://troquatte.github.io/curso-angular-portfolio/browser/
+  https://victorhaug.github.io/portfolio-victor/browser/
 </h1>
 
 ## :custard: Descrição
@@ -12,16 +12,15 @@ Use este código para fazer consultas caso tenha dúvidas no curso.
 
 ## :custard: Acesse o GhPages
 
-<strong>Link:</strong> https://troquatte.github.io/curso-angular-portfolio/browser/
+<strong>Link:</strong> https://victorhaug.github.io/portfolio-victor/browser/
 
 ## :custard: Aprenda a subir o seu código no ghPages
 
 <strong>Adicione ao seu projeto:</strong> ng add angular-cli-ghpages
 <br>
 
-<strong>Faça o deploy:</strong> ng deploy --base-href https://victorhaug.github.io/SEU_REPO_GITHUB/browser/
+<strong>Faça o deploy:</strong> ng deploy --base-href https://victorhaug.github.io/portfolio-victor/browser/
 
-<strong>Exp.:</strong> ng deploy --base-href https://troquatte.github.io/curso-angular-portfolio/browser/
 
 ---
 
