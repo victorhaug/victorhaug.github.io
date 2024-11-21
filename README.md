@@ -19,7 +19,7 @@ Use este código para fazer consultas caso tenha dúvidas no curso.
 <strong>Adicione ao seu projeto:</strong> ng add angular-cli-ghpages
 <br>
 
-<strong>Faça o deploy:</strong> ng deploy --base-href https://victorhaug.github.io/portfolio-victor/browser/
+<strong>Faça o deploy:</strong> ng deploy --base-href https://victorhaug.github.io/victorhaug.github.io/browser/
 
 
 ---
