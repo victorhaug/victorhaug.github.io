@@ -3,7 +3,7 @@
   <br>
     Portfólio Victor
   <br>
-  https://victorhaug.github.io/portfolio-victor/browser/
+  https://victorhaug.github.io/victorhaug/browser/
 </h1>
 
 ## :custard: Descrição
